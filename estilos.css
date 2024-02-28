@@ -1,0 +1,16 @@
+﻿body {
+
+}
+header {
+
+}
+footer {
+    background-color: #18a2b7;
+    padding:20px;
+}
+div #buscar{
+    background-color: #18a2b7;
+}
+article{
+    margin-bottom: 10px;
+}
